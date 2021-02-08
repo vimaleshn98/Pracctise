@@ -6,5 +6,8 @@ public class App {
 		for (int i = 0; i < 10; i++) {
 			System.out.println("print somithing");
 		}
+		System.out.println("Dev1");
+		System.out.println("test2");
+		
 	}
 }
